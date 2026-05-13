@@ -27,17 +27,24 @@ Groq API / LLM
 
 📊 **Workflow**
 
-Scrape product data from e-commerce platforms
-Process and clean collected data
-Perform sentiment analysis on customer reviews
-Forecast future discount trends
-Generate AI-powered recommendations
-Display insights through an interactive dashboard
+1. Scrape product data from e-commerce platforms
+ 
+2. Process and clean collected data
+ 
+3. Perform sentiment analysis on customer reviews
+ 
+4. Forecast future discount trends
+ 
+5. Generate AI-powered recommendations
+
+6. Display insights through an interactive dashboard
 
 ▶️ **Run the Project**
 
 Clone the Repository
+
 git clone https://github.com/your-username/AI-Ecommerce-Intelligence-Tool.git
+
 cd AI-Ecommerce-Intelligence-Tool
 
 **Install Dependencies**
