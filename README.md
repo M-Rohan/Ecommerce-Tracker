@@ -3,6 +3,7 @@
 
 🚀 **Live Demo**: https://ecommerce-strategy-tracker.streamlit.app/
 ⁠
+
 An AI-powered e-commerce analytics platform that automates competitor monitoring, performs sentiment analysis on customer reviews, forecasts discount trends, and generates intelligent business recommendations.
 
 
